@@ -13,7 +13,7 @@ const config: Partial<Config.InitialProjectOptions> = {
     ],
     testPathIgnorePatterns: ['__setup__.ts'],
     transform: {
-        '^.+\\.(ts|js)$': [
+        '^.+\\.(ts|js)x?$': [
             '@swc/jest',
             {
                 jsc: {
