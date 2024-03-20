@@ -7,7 +7,7 @@ import {
     SolanaError,
 } from '@solana/errors';
 
-import { Address, getAddressCodec, getAddressComparator } from '../address';
+import { Address, getAddressCodec, getAddressComparator } from '../address.js';
 
 jest.mock('@solana/codecs-strings', () => ({
     ...jest.requireActual('@solana/codecs-strings'),

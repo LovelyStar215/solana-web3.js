@@ -8,7 +8,7 @@ import {
     SolanaError,
 } from '@solana/errors';
 
-import { Blockhash, getBlockhashCodec, getBlockhashComparator } from '../blockhash';
+import { Blockhash, getBlockhashCodec, getBlockhashComparator } from '../blockhash.js';
 
 jest.mock('@solana/codecs-strings', () => ({
     ...jest.requireActual('@solana/codecs-strings'),

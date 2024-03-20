@@ -1,5 +1,5 @@
-import { isSolanaError, SolanaError } from '../error';
-import { getErrorMessage } from '../message-formatter';
+import { isSolanaError, SolanaError } from '../error.js';
+import { getErrorMessage } from '../message-formatter.js';
 
 jest.mock('../message-formatter');
 

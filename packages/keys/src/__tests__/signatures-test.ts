@@ -1,8 +1,8 @@
 import { createEncoder, VariableSizeEncoder } from '@solana/codecs-core';
 import { getBase58Encoder } from '@solana/codecs-strings';
 
-import { createPrivateKeyFromBytes } from '../private-key';
-import { SignatureBytes, signBytes, verifySignature } from '../signatures';
+import { createPrivateKeyFromBytes } from '../private-key.js';
+import { SignatureBytes, signBytes, verifySignature } from '../signatures.js';
 
 jest.mock('@solana/codecs-strings', () => ({
     ...jest.requireActual('@solana/codecs-strings'),

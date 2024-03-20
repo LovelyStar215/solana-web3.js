@@ -1,7 +1,7 @@
 import { SOLANA_ERROR__RPC__TRANSPORT_HTTP_HEADER_FORBIDDEN, SolanaError } from '@solana/errors';
 import { RpcTransport } from '@solana/rpc-spec';
 
-import { assertIsAllowedHttpRequestHeaders } from '../http-transport-headers';
+import { assertIsAllowedHttpRequestHeaders } from '../http-transport-headers.js';
 
 const FOREVER_PROMISE = new Promise(() => {
     /* never resolve */

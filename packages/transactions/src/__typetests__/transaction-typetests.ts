@@ -16,11 +16,11 @@ import {
     setTransactionLifetimeUsingDurableNonce,
     signTransaction,
 } from '..';
-import { createTransaction } from '../create-transaction';
-import { ITransactionWithFeePayer, setTransactionFeePayer } from '../fee-payer';
-import { CompiledMessage, compileMessage } from '../message';
-import { BaseTransaction, Transaction } from '../types';
-import { getUnsignedTransaction } from '../unsigned-transaction';
+import { createTransaction } from '../create-transaction.js';
+import { ITransactionWithFeePayer, setTransactionFeePayer } from '../fee-payer.js';
+import { CompiledMessage, compileMessage } from '../message.js';
+import { BaseTransaction, Transaction } from '../types.js';
+import { getUnsignedTransaction } from '../unsigned-transaction.js';
 
 const mockFeePayer = null as unknown as Address<'feePayer'>;
 const mockBlockhash = null as unknown as Blockhash;
