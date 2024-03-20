@@ -1,5 +1,18 @@
 # @solana/rpc-subscriptions
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/rpc-subscriptions-api@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/functional@2.0.0-preview.3
+    -   @solana/rpc-subscriptions-spec@2.0.0-preview.3
+    -   @solana/rpc-subscriptions-transport-websocket@2.0.0-preview.3
+    -   @solana/rpc-transformers@2.0.0-preview.3
+    -   @solana/rpc-types@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

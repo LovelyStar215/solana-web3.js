@@ -1,5 +1,16 @@
 # @solana/compat
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/transactions@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/functional@2.0.0-preview.3
+    -   @solana/instructions@2.0.0-preview.3
+    -   @solana/keys@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

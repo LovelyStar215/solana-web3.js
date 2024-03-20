@@ -1,5 +1,26 @@
 # @solana/web3.js-experimental
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/codecs@2.0.0-preview.3
+    -   @solana/transactions@2.0.0-preview.3
+    -   @solana/programs@2.0.0-preview.3
+    -   @solana/signers@2.0.0-preview.3
+    -   @solana/transaction-confirmation@2.0.0-preview.3
+    -   @solana/rpc@2.0.0-preview.3
+    -   @solana/rpc-subscriptions@2.0.0-preview.3
+    -   @solana/accounts@2.0.0-preview.3
+    -   @solana/addresses@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/functional@2.0.0-preview.3
+    -   @solana/instructions@2.0.0-preview.3
+    -   @solana/keys@2.0.0-preview.3
+    -   @solana/rpc-parsed-types@2.0.0-preview.3
+    -   @solana/rpc-types@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

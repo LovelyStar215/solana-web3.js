@@ -1,5 +1,19 @@
 # @solana/transactions
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies [[`deb7b80`](https://github.com/solana-labs/solana-web3.js/commit/deb7b806b4cbe620b1714be1765c981d88c3a2f6), [`6dcf548`](https://github.com/solana-labs/solana-web3.js/commit/6dcf5483bb6bbb8d343db28dedb258c8da91ffac)]:
+    -   @solana/codecs-data-structures@2.0.0-preview.3
+    -   @solana/addresses@2.0.0-preview.3
+    -   @solana/codecs-core@2.0.0-preview.3
+    -   @solana/codecs-numbers@2.0.0-preview.3
+    -   @solana/codecs-strings@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/functional@2.0.0-preview.3
+    -   @solana/keys@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

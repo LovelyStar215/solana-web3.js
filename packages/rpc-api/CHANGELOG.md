@@ -1,5 +1,21 @@
 # @solana/rpc-api
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/transactions@2.0.0-preview.3
+    -   @solana/addresses@2.0.0-preview.3
+    -   @solana/codecs-core@2.0.0-preview.3
+    -   @solana/codecs-strings@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/keys@2.0.0-preview.3
+    -   @solana/rpc-parsed-types@2.0.0-preview.3
+    -   @solana/rpc-spec@2.0.0-preview.3
+    -   @solana/rpc-transformers@2.0.0-preview.3
+    -   @solana/rpc-types@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

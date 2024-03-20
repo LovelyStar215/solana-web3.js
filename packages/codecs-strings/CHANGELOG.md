@@ -1,5 +1,14 @@
 # @solana/codecs-strings
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/codecs-core@2.0.0-preview.3
+    -   @solana/codecs-numbers@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # @solana/rpc
 
+## 2.0.0-preview.3
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/rpc-api@2.0.0-preview.3
+    -   @solana/errors@2.0.0-preview.3
+    -   @solana/functional@2.0.0-preview.3
+    -   @solana/rpc-spec@2.0.0-preview.3
+    -   @solana/rpc-transformers@2.0.0-preview.3
+    -   @solana/rpc-transport-http@2.0.0-preview.3
+    -   @solana/rpc-types@2.0.0-preview.3
+
 ## 2.0.0-preview.2
 
 ### Patch Changes

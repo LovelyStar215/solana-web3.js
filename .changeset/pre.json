@@ -47,6 +47,8 @@
     "@solana/ws-impl": "0.0.0"
   },
   "changesets": [
+    "green-experts-hang",
+    "heavy-students-relax",
     "three-guests-study"
   ]
 }
